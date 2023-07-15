@@ -1,4 +1,8 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "theme": "short"
+  },
   "basics": {
     "name": "Drew Burchfiel",
     "label": "Systems Administrator / Web Developer",
