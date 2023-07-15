@@ -1,0 +1,115 @@
+{
+  "basics": {
+    "name": "Drew Burchfiel",
+    "label": "Systems Administrator / Web Developer",
+    "image": "",
+    "email": "drew.burchfiel@gmail.com",
+    "url": "",
+    "summary": "I like to code",
+    "location": {
+      "city": "Oklahoma City",
+      "countryCode": "US",
+      "region": "Oklahoma"
+    }
+  },
+  "skills": [
+    {
+      "name": "Systems Administration",
+      "level": "Senior",
+      "keywords": [
+        "Powershell / Python",
+        "Puppet / Ansible",
+        "Windows Server",
+        "Linux / Ubuntu / OpenSuse / RHEL",
+        "IIS"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Proficient",
+      "keywords": [
+        "Python",
+        "Powershell",
+        "PHP",
+        "C# / F#",
+        "Rust"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Itermediate",
+      "keywords": [
+        "PHP",
+        "HTML / Javascript",
+        "MySQL",
+        ".Net Core / MVC / REST API",
+        "Python / Responder / Django"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Paycom",
+      "location": "Oklahoma City, Oklahoma",
+      "description": "Human Resources Software Company",
+      "position": "Systems Administrator",
+      "url": "https://paycom.com",
+      "startDate": "2021-02-01",
+      "summary": "Configure Windows and Linux operating systems on virtual and physical servers using PowerShell, Bash, and Puppet. Setup and maintain CI/CD pipeline for Puppet using CD4PE on Kubernetes. Monitor system performance and logs and provide reports for managements awareness into the technical health of Paycom applications using Splunk. Develop team documentation for day to day duties and gained team knowledge using Confluence and Microsoft Word.",
+      "highlights": [
+        "Managed Puppet infrastructure with around 2000 nodes.",
+        "Automated Server Setup using Puppet and Powershell."
+      ]
+    },
+    {
+      "name": "Paycom",
+      "url": "https://paycom.com",
+      "location": "Oklahoma City, Oklahoma",
+      "description": "Human Resources Software Company",
+      "position": "Technical Solutions Specialist",
+      "summary": "Full stack development using IIS, MySQL, an in house PHP framework, and jQuery/vanilla JavaScript to create information systems for business use. Used C# to create Windows service for backend processing. Developed automation solutions and ETL processes in collaboration with other departments to improve overall efficiency with Python and C#. Provided quality assurance and testing of new API features and bug fixes before deployment using custom test suites written in C#, Python, and PowerShell. Provided support to clients utilizing SFTP, API, and SSO products.",
+      "startDate": "2017-06-01",
+      "endDate": "2021-02-01",
+      "highlights": [
+        "Worked with PHP, Javascript, C#, MySQL, IIS, and Windows Servers to build internal web applications.",
+        "Used Python and C# to ingest CSVs and webhooks for process automation for other businuess units,",
+        "Reverse engineered management portal to automate pulling metrics for reporting with Python.",
+        "Deployed timeclocks as badge readers for internal training attendance system."
+      ]
+    },
+    {
+      "name": "Paycom",
+      "url": "https://paycom.com",
+      "location": "Oklahoma City, Oklahoma",
+      "description": "Human Resources Software Company",
+      "position": "Technical Support Specialist",
+      "summary": "Managed and prioritized inbound technical support calls and emails as the customer's initial point of contact for technical issues. Mentored new technical support team members by providing training, answering technical questions, and handling escalations. Created documentation for onboarding new team members and common troubleshooting steps in Microsoft Word. Provided bug fixes and enhancements to custom inventory system written in PHP.",
+      "startDate": "2016-04-26",
+      "endDate": "2017-06-01",
+      "highlights": [
+        "Worked on timeclock inventory system web app written in PHP"
+      ]
+    },
+    {
+      "name": "Share Medical Center",
+      "url": "https://www.smcok.com/",
+      "location": "Alva, Oklahoma",
+      "description": "Hospital",
+      "position": "IT Assistant",
+      "summary": "Oversaw local IT infrastructure including servers, security, networking, storage systems, and desktops. Answered user inquiries regarding computer software and hardware operation. Conducted computer diagnostics to investigate and resolve problems and provide technical assistance and support. Set up equipment for employee use.",
+      "endDate": "2016-04-26",
+      "startDate": "2015-02-01"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Table Tennis"
+    },
+    {
+      "name": "Home Assistant / Home Automation"
+    },
+    {
+      "name": "DIY / Woodworking"
+    }
+  ]
+}
