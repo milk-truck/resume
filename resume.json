@@ -14,6 +14,23 @@
       "region": "Oklahoma"
     }
   },
+  "education": [
+    {
+      "institution": "Oklahoma Status University (one year)",
+      "url": "https://go.okstate.edu/",
+      "studyType": "Bachelors",
+      "startDate": "2008-08",
+      "endDate": "2009-05"
+    },
+    {
+      "institution": "NorthWestern Oklahoma State University",
+      "url": "https://www.nwosu.edu/",
+      "area": "Computer Science",
+      "studyType": "Bachelors",
+      "startDate": "2009-08",
+      "endDate": "2013-05"
+    }
+  ],
   "skills": [
     {
       "name": "Systems Administration",
