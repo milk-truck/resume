@@ -76,7 +76,7 @@
       "highlights": [
         "Managed Puppet infrastructure with around 2000 nodes.",
         "Automated Server Setup using Puppet and Powershell.",
-        "Established automated patching solution through RedHat Satellite Server."
+        "Established automated patching solution with Ansible and RedHat Satellite."
       ]
     },
     {
@@ -90,7 +90,8 @@
       "endDate": "2021-02-01",
       "highlights": [
         "Worked with PHP, Javascript, C#, MySQL, IIS, and Windows Servers to build internal web applications.",
-        "Used Python and C# to ingest CSVs and webhooks for process automation for other businuess units,",
+        "Created a .Net application to receive webhooks from the Paycom application to onboard new hires into AD",
+        "Used Python and XMLRPC to interface with our Brivo security system to pull badge number data into an internal training attendance system",
         "Reverse engineered management portal to automate pulling metrics for reporting with Python.",
         "Deployed timeclocks as badge readers for internal training attendance system."
       ]
