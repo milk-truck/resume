@@ -1,11 +1,11 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "meta": {
-    "theme": "short"
+    "theme": "flat"
   },
   "basics": {
     "name": "Drew Burchfiel",
-    "label": "Systems Administrator / Web Developer",
+    "label": "Systems Administrator",
     "email": "drew.burchfiel@gmail.com",
     "summary": "I like to code",
     "location": {
@@ -35,11 +35,10 @@
       "name": "Systems Administration",
       "level": "Senior",
       "keywords": [
-        "Powershell / Python",
-        "Puppet / Ansible",
+        "RedHat Enterprise Linux",
         "Windows Server",
-        "Linux / Ubuntu / OpenSuse / RHEL",
-        "IIS"
+        "Puppet / Ansible",
+        "Powershell / Python / Bash",
       ]
     },
     {
@@ -49,7 +48,6 @@
         "Python",
         "Powershell",
         "PHP",
-        "C# / F#",
         "Rust",
         "REST / SOAP / XMLRPC"
       ]
@@ -77,7 +75,8 @@
       "summary": "Configure Windows and Linux operating systems on virtual and physical servers using PowerShell, Bash, and Puppet. Setup and maintain CI/CD pipeline for Puppet using CD4PE on Kubernetes. Monitor system performance and logs and provide reports for managements awareness into the technical health of Paycom applications using Splunk. Develop team documentation for day to day duties and gained team knowledge using Confluence and Microsoft Word.",
       "highlights": [
         "Managed Puppet infrastructure with around 2000 nodes.",
-        "Automated Server Setup using Puppet and Powershell."
+        "Automated Server Setup using Puppet and Powershell.",
+        "Established automated patching solution through RedHat Satellite Server.",
       ]
     },
     {
@@ -106,7 +105,8 @@
       "startDate": "2016-04-26",
       "endDate": "2017-06-01",
       "highlights": [
-        "Worked on timeclock inventory system web app written in PHP"
+        "Worked on timeclock inventory system web app written in PHP",
+        "Trained new hires during onboarding phase."
       ]
     },
     {
