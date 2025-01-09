@@ -38,7 +38,7 @@
         "RedHat Enterprise Linux",
         "Windows Server",
         "Puppet / Ansible",
-        "Powershell / Python / Bash",
+        "Powershell / Python / Bash"
       ]
     },
     {
@@ -76,7 +76,7 @@
       "highlights": [
         "Managed Puppet infrastructure with around 2000 nodes.",
         "Automated Server Setup using Puppet and Powershell.",
-        "Established automated patching solution through RedHat Satellite Server.",
+        "Established automated patching solution through RedHat Satellite Server."
       ]
     },
     {
