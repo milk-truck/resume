@@ -16,7 +16,7 @@
   },
   "education": [
     {
-      "institution": "Oklahoma Status University (one year)",
+      "institution": "Oklahoma Status University (single year)",
       "url": "https://go.okstate.edu/",
       "startDate": "2008-08",
       "endDate": "2009-05"
@@ -102,12 +102,12 @@
       "location": "Oklahoma City, Oklahoma",
       "description": "Human Resources Software Company",
       "position": "Technical Support Specialist",
-      "summary": "Managed and prioritized inbound technical support calls and emails as the customer's initial point of contact for technical issues. Mentored new technical support team members by providing training, answering technical questions, and handling escalations. Created documentation for onboarding new team members and common troubleshooting steps in Microsoft Word. Provided bug fixes and enhancements to custom inventory system written in PHP.",
+      "summary": "Managed and prioritized inbound technical support calls and emails as the customer's initial point of contact for technical issues. Mentored new technical support team members by providing training, answering technical questions, and handling escalations. Created documentation for onboarding new team members and common troubleshooting steps in Microsoft Word.",
       "startDate": "2016-04-26",
       "endDate": "2017-06-01",
       "highlights": [
-        "Worked on timeclock inventory system web app written in PHP",
-        "Trained new hires during onboarding phase."
+        "Provided bug fixes and enhancements to custom inventory system written in PHP.",
+        "Trained new hires during onboarding to ensure they were ready to take support calls."
       ]
     },
     {
