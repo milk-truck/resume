@@ -72,7 +72,7 @@
       "position": "Systems Administrator",
       "url": "https://paycom.com",
       "startDate": "2021-02-01",
-      "summary": "Configure Windows and Linux operating systems on virtual and physical servers using PowerShell, Bash, and Puppet. Setup and maintain CI/CD pipeline for Puppet using CD4PE on Kubernetes. Monitor system performance and logs and provide reports for managements awareness into the technical health of Paycom applications using Splunk. Develop team documentation for day to day duties and gained team knowledge using Confluence and Microsoft Word.",
+      "summary": "Configure Windows and Linux operating systems on virtual and physical servers using PowerShell, Bash, and Puppet. Setup and maintain CI/CD pipeline for Puppet using CD4PE on Kubernetes. Monitor system performance and logs and provide reports for managements awareness into the technical health of Paycom applications using Splunk. Develop team documentation for day to day duties and capture team knowledge using Confluence and Microsoft Word.",
       "highlights": [
         "Managed Puppet infrastructure with around 2000 nodes.",
         "Automated Server Setup using Puppet and Powershell.",
